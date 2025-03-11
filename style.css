@@ -19,7 +19,7 @@
 
 .wording{
     display: flex;
-    gap: 17.5%;
+    gap: 9.5%;
 }
 
 
@@ -392,7 +392,7 @@ body{
 
 .saller{
     display: flex;
-    gap: 59%;
+    gap: 75%;
 }
 
 
@@ -457,3 +457,7 @@ body{
     display: flex;
     gap: 80%;
 }
+
+
+
+
